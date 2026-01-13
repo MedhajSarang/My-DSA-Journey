@@ -24,3 +24,21 @@ x, y = input("Enter two values: ").split()
 print("Number of Boys: ", x)
 print("Number of Girls: ", y)
 
+#Change the Type of Input 
+'''If any user wants to take input as int or float, we just need to typecast it.'''
+color = input("What color is rose?: ")
+print(color)
+
+#Print Numbers in Python
+
+n = int(input("How many roses?:" ))
+print(n)
+
+#Print Float or Decimal Number in Python
+price = float(input("Price of each rose?: "))
+print(price)
+
+#Find DataType of Input in Python
+
+c = 11.22
+print(type(c))
