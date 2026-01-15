@@ -71,3 +71,33 @@ It is a concise way to create lists using a single line of code. It is useful fo
 squares = [x**2 for x in range(1, 6)]
 print(squares)
 
+#------------------------x--------------------------------
+
+#Python Strings
+'''
+Strings in python are surrounded by either quotation marks, or double quotation marks.
+'''
+
+#Assign String to a Variable
+a = "Hello"
+print(a)
+
+#Strings are Arrays
+a = "Hello, World!"
+print(a[1])
+
+#Looping Through a String
+for x in "banana":
+    print(x)
+
+#String Length
+print(len(a))
+
+#Check String
+'''
+To check if a certain phrase or character is present in a string, we can use the keyword in.
+'''
+
+txt = "The best things in life are free!"
+print("free" in txt)
+
