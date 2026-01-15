@@ -9,4 +9,4 @@ This repository contains my solutions to the [Striver's A2Z DSA Sheet](https://t
 
 | Section | Topic | Problems Solved | Status | 
 | :--- | :--- | :--- | :--- |
-| **Step 1** | **Learn the Basics** | 4/31 | 🚧 |
+| **Step 1** | **Learn the Basics** | 6/31 | 🚧 |

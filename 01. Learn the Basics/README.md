@@ -2,6 +2,6 @@
 
 This directory contains the foundational concepts required for DSA. 
 
-**Topics:** 4/31
+**Topics:** 6/31
 
-**Progress:** [#...................] 12.90%
+**Progress:** [#...................] 19.35%
