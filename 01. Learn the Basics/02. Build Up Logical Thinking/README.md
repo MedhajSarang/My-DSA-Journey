@@ -1,0 +1,1 @@
+This directory contains all the important patterns to solve before starting DSA. 
