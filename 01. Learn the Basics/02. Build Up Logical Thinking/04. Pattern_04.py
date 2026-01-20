@@ -12,7 +12,7 @@ Expected Output:-
 #Code:
 
 N = 5
-for i in range(0, N+1):
-    for j in range(1, i + 1):
-        print(i, end=" ")
-    print()
+for i in range(0, N+1):         #Number of Rows
+    for j in range(1, i + 1):   #Number of elements per row
+        print(i, end=" ")       #Printing logic in each row, as i remains constant print the value of i
+    print()                     #Move to next line
