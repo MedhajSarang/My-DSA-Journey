@@ -14,7 +14,7 @@ Expected Output:-
 #Code
 
 N = 5
-for i in range(1, N + 1):       #Decides rows
+for i in range(0, N + 1):       #Decides rows
     for j in range(1, i + 1):   #Decides the number going in rows; by default starts at 0 so the range needs to be modified
         print(j, end= " ")      #Prints the number in rows
     print()                     #Moves to next line
