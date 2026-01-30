@@ -10,7 +10,7 @@ Expected Output:-
 
 #Code
 N = 5
-for i in range(1, N):
+for i in range(1, N):               #Determine the number of rows
     for j in range(1, i + 1):
         print(j, end=" ")
     for s in range(2 * (N - 1) + 1):
