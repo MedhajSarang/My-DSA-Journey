@@ -5,8 +5,8 @@ This repository contains my solutions to the [Striver's A2Z DSA Sheet](https://t
 
 ## 📊Progress Tracker
 **Goal:** 455 Problems
-**Status:** [....................] 1.97%
+**Status:** [....................] 2.41%
 
 | Section | Topic | Problems Solved | Status | 
 | :--- | :--- | :--- | :--- |
-| **Step 1** | **Learn the Basics** | 9/31 | 🚧 |
+| **Step 1** | **Learn the Basics** | 11/31 | 🚧 |
