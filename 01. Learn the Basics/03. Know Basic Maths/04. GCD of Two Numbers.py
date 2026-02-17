@@ -27,3 +27,8 @@ Greatest common factor: 5 (GCD)
 
 #Code
 
+def gcd(self, a, b):                        
+        for i in range(min(a,b),0,-1):      #Loop to check find the smaller number and go down by 1
+            if a % i == 0 and b % i == 0:   #Checks if i divides both the numbers, and is used to ensure both cases are true together
+                return i                    #Return the greatest value of i as we are looping from largest to smallest
+        return 1                            #Returns 1 if no common divisor greater than 1 is found
