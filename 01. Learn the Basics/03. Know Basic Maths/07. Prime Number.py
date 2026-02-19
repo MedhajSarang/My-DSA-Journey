@@ -20,3 +20,10 @@ Explanation: 10 is not prime, it is a composite number because it has 4 divisors
 
 #Code
 
+def isPrime(self, n):
+        if n <= 1:              #Logic to reject numbers less than 1
+            return False        
+        for i in range(2, n):   #Try dividing every number from 2 to n - 1
+            if n % i == 0:      #If divisible then n is not prime
+                return False
+        return True             #If not divisible then number is prime
